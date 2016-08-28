@@ -1,0 +1,10 @@
+{
+  "homepage": "TheDarkray.comlu.com",
+  "1.7.10": {
+    "r1-100": "Added UpdateJSON file."
+  },
+  "promos": {
+    "1.7.10-latest": "r1-100",
+    "1.7.10-recommended": "r1-100"
+  }
+}
